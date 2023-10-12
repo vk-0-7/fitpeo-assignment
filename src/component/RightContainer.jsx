@@ -29,7 +29,7 @@ export default function RightContainer() {
     <div className="lg:w-[calc(100vw-280px)] pb-10 lg:ml-[280px]">
       <div className="lg:p-8 p-5 flex justify-between w-full border-b relative">
         <h2 className="lg:ml-5 ml-0 font-bold text-xl">
-          Hello, Nishant Sharma 👏
+          Hello, Vivek Kumar
         </h2>
         <input
           type="text"
